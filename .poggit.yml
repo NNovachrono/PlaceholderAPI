@@ -2,5 +2,8 @@
 build-by-default: true
 branches:
 - main
-projects: []
+projects:
+  PlaceholderAPI:
+    path: ""
+    icon: "icon.jpg"
 ...
