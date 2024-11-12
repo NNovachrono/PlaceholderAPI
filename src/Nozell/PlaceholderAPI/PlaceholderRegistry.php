@@ -8,7 +8,6 @@ use pocketmine\player\Player;
 
 class PlaceholderRegistry
 {
-
     private array $placeholders = [];
 
     public function __construct(private Plugin $plugin) {}
@@ -26,5 +25,24 @@ class PlaceholderRegistry
             $text = str_replace("{" . $identifier . "}", (string) $value, $text);
         }
         return $text;
+    }
+
+    public function filterTags(array $values, ?Player $player = null): array
+    {
+        return array_filter($values, function ($value) use ($player) {
+            $originalLine = $value;
+
+            $processedLine = $this->parsePlaceholders($value, $player);
+
+            foreach ($this->placeholders as $identifier => $placeholder) {
+                $value = $placeholder->process($player);
+
+                if (empty(trim($value)) && strpos($originalLine, "{" . $identifier . "}") !== false) {
+                    return false;
+                }
+            }
+
+            return trim($processedLine) !== '';
+        });
     }
 }
