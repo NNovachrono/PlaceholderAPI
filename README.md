@@ -1,5 +1,71 @@
 # PlaceholderAPI for PocketMine-MP / PlaceholderAPI para PocketMine-MP
 
+---
+
+![GitHub followers](https://img.shields.io/github/followers/lyvaris) ![GitHub Repo stars](https://img.shields.io/github/stars/lyvaris/PlaceholderAPI) ![GitHub language count](https://img.shields.io/github/languages/count/lyvaris/PlaceholderAPI)
+![GitHub top language](https://img.shields.io/github/languages/top/lyvaris/PlaceholderAPI)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/lyvaris/PlaceholderAPI)
+![GitHub contributors](https://img.shields.io/github/contributors/lyvaris/PlaceholderAPI)
+![GitHub Created At](https://img.shields.io/github/created-at/lyvaris/PlaceholderAPI)
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- <img src="https://komarev.com/ghpvc/?username=lyvaris&label=Profile%20views&color=0e75b6&style=flat" alt="Lyvaris" /> </p>
+
+- 💻 Passionate about **Arduino Projects, PLC Automation & Web Development**
+
+- <p>
+    <a href="https://www.paypal.com/paypalme/vLyvaris" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge" />
+    </a>
+  </p>
+
+- <p>
+    <a href="mailto:imjustLyvaris@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+  </p>
+
+- <p>
+  <a href="https://github.com/ImJustLyvaris" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+  <img src="https://img.shields.io/github/stars/lyvaris?style=for-the-badge" alt="GitHub User's stars" />
+
+  <img src="https://img.shields.io/github/followers/lyvaris?style=for-the-badge" alt="GitHub followers" />
+
+</p>
+
+- <p>
+  <a href="https://www.youtube.com/channel/UCg4BM8oOB_kP9c6lz3fvLng" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a>
+
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Subscribers" />
+
+  <img src="https://img.shields.io/youtube/channel/views/UCg4BM8oOB_kP9c6lz3fvLng?style=for-the-badge" alt="YouTube Views" />
+
+</p>
+
+</td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+  </td>
+</tr>
+</table>
+
+
+
+[🎮 Únete al Discord | Join Discord](https://discord.gg/NvxR2SCyQY)  
+[📹 Síguenos en YouTube | Follow us on YouTube](https://www.youtube.com/@Lyvaris)  
+[🎵 Síguenos en TikTok | Follow us on TikTok](https://www.tiktok.com/@Lyvaris_darkwind)
+
+---
+
+
 **PlaceholderAPI** is a modular and extensible API for PocketMine-MP, allowing developers to create and register custom placeholders (variables and tags) with dedicated classes. With this API, player and server placeholders are managed in an organized way, making it easy to integrate and extend in any PocketMine plugin.
 
 **PlaceholderAPI** es una API modular y extensible para PocketMine-MP que permite a los desarrolladores crear y registrar placeholders (variables y etiquetas) personalizados mediante clases dedicadas. Con esta API, los placeholders de jugador y servidor se manejan de manera ordenada, facilitando su integración y extensión en cualquier plugin de PocketMine.
