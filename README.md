@@ -197,8 +197,8 @@ Para ver la lista completa de placeholders disponibles, consulta **VARIABLES.md*
 
 ## License / Licencia
 
-This project is under the MIT license. See the LICENSE file for more details.  
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+This project is under the Apache license. See the LICENSE file for more details.  
+Este proyecto está bajo la licencia Apache. Consulta el archivo LICENSE para más detalles.
 
 ---
 
