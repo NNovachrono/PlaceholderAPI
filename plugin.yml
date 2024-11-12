@@ -1,0 +1,7 @@
+name: PlaceholderAPI
+version: 1.0.0
+main: Nozell\PlaceholderAPI\PlaceholderAPI
+author: Lyvaris
+api: [5.0.0]
+description: "Plugin inspire by PlaceholderAPI from spigot to pocketmine to easy use."
+website: "https://github.com/Lyvaris"
